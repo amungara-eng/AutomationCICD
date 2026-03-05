@@ -20,6 +20,7 @@ public class Standalonetestjava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method 
+               //new comments are added
      String productName = "ZARA COAT 3";
       WebDriverManager.chromedriver().setup();
       WebDriver driver = new ChromeDriver();
